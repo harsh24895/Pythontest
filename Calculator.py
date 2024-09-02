@@ -1,5 +1,5 @@
 def add():
-    a = float(input("enter the number"))
+    a = float(input("enter the number")) #here we are casting the data type float to a variable and taking the input
     b = float(input("enter the number"))
     print(a+b)
 def sub():
